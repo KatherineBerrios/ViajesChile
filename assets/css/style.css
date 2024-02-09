@@ -1,0 +1,36 @@
+* Formatear el documnto HTML */
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+/* Modificaciones en el body */
+body {
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+/* Barra de navegación*/
+nav {
+    color: #FFFFFF;
+}
+
+.container .navbar-brand{
+    color: #FFFFFF;
+    display: inline-flex;
+    vertical-align: middle;
+    
+}
+
+.container .navbar-brand img {
+    width: 90px;
+    height: 35px; 
+}
+
+h1 {
+    font-size: 25px;
+    text-align: left;
+    margin-top: 4px;
+}
