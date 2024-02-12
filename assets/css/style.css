@@ -28,13 +28,24 @@ nav {
 
 .container .navbar-brand img {
     width: 90px;
-    height: 35px; 
+    height: 35px;
 }
 
 h1 {
     font-size: 25px;
     text-align: left;
     margin-top: 4px;
+}
+
+/* Sección Destacados */
+.card{
+    background-color: #04c6db;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.card2{    
+    
 }
 
 /* Formulario */
